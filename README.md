@@ -1,0 +1,3 @@
+
+go run ./1
+go test -v ./...
